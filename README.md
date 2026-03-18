@@ -13,7 +13,7 @@ Issue to talk about this week is the impact of the screen size on the energy con
 **Accuracy and Limitations**: The accuracy depends on the dataset used, so having a clean and concise data with no flaws is the key to get better result. The bar chart for one of the instances did not match exactly as depicted in the canvas was due to different datasets being used to calculate and visualize the dataset.
 The only limitation faced was the tv screen size being in cm so it needed to be converted to inches for better understanding of the data which was achieved through the expression node.
 
-**Ethics**: All information is accurately depicted in the visualations.
+**Ethics**: All information is accurately depicted in the visualizations.
 
 
 

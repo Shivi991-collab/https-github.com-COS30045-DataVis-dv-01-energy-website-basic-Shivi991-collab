@@ -2,7 +2,7 @@
 
 Issue to talk about this week is the impact of the screen size on the energy consuption.
 
-### -:About the data:-
+### About the data:-
 
 **Data Source**: the data is sourced from the csv file provided in week1. I used KNIME to extract the data from the file and analysed it.
 
